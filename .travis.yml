@@ -4,4 +4,4 @@ node_js:
 os:
   - linux
   - osx
-after_success: npm run coverage
+after_success: npm run coveralls

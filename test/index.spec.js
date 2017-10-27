@@ -4,9 +4,9 @@ require('chai')
 const dataplugCsv = require('../lib')
 
 describe('dataplug-csv', () => {
-  it('should have "CsvStreamWriter" class', () => {
+  it('should have "CsvFilesWriter" class', () => {
     dataplugCsv
-      .should.have.property('CsvStreamWriter')
+      .should.have.property('CsvFilesWriter')
       .that.is.an('function')
   })
 })

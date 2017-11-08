@@ -1,6 +1,6 @@
 {
   "name": "@dataplug/dataplug-csv",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Dataplug CSV library (by Dataplug.io)",
   "main": "lib/index.js",
   "scripts": {
